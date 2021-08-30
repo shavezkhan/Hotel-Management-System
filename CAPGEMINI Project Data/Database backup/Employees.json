@@ -1,0 +1,37 @@
+[{
+  "_id": 1001,
+  "name": "James",
+  "address": "NY",
+  "salary": 15000,
+  "age": 21,
+  "post": "",
+  "mailid": "james@gmail.com",
+  "_class": "com.cap.hms.entity.staff"
+},{
+  "_id": 1002,
+  "name": "Drax",
+  "address": "LA",
+  "salary": 20000,
+  "age": 22,
+  "post": "Manager",
+  "mailid": "drax@gmail.com",
+  "_class": "com.cap.hms.entity.staff"
+},{
+  "_id": 1003,
+  "name": "Cooper",
+  "address": "paris",
+  "salary": 16000,
+  "age": 21,
+  "post": "Cleaner",
+  "mailid": "cooper@gmail.com",
+  "_class": "com.cap.hms.entity.staff"
+},{
+  "_id": 1004,
+  "name": "Tyler",
+  "address": "UP",
+  "salary": 14000,
+  "age": 25,
+  "post": "Kitchen",
+  "mailid": "tyler@gmail.com",
+  "_class": "com.cap.hms.entity.staff"
+}]

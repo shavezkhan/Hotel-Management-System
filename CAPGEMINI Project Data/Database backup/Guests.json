@@ -1,0 +1,19 @@
+[{
+  "_id": 10101,
+  "company": "LG",
+  "name": "Suraj",
+  "mailid": "suraj@gmail.com",
+  "gender": "",
+  "address": "Patna",
+  "phone_number": 65468453165,
+  "_class": "com.cap.hms.entity.Addguest"
+},{
+  "_id": 20101,
+  "company": "TCS",
+  "name": "Akshat",
+  "mailid": "akshat@gamil.com",
+  "gender": "",
+  "address": "Varanasi",
+  "phone_number": 6548518745,
+  "_class": "com.cap.hms.entity.Addguest"
+}]

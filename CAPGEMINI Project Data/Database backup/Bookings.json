@@ -1,0 +1,19 @@
+[{
+  "_id": 10101,
+  "number_of_adults": 2,
+  "number_of_children": 0,
+  "phone": 76734637697,
+  "check_in": "2021-06-14",
+  "check_out": "2021-06-16",
+  "room_assign": "101",
+  "_class": "com.cap.hms.entity.Reservation"
+},{
+  "_id": 20101,
+  "number_of_adults": 2,
+  "number_of_children": 1,
+  "phone": 4634343123,
+  "check_in": "2021-06-13",
+  "check_out": "2021-06-18",
+  "room_assign": "204",
+  "_class": "com.cap.hms.entity.Reservation"
+}]

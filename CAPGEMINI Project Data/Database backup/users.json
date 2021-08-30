@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "60c70756ef8982249d6d672f"
+  },
+  "username": "moderator",
+  "email": "moderator@gmail.com",
+  "password": "$2a$10$1o1DO9arDV.UpvFiu4kLHeC6ILVoIJ8f5hC/cnLVNnpr5TgwrJ32C",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "60c703560b10183e3ece9544"
+      }
+    },
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "60c703560b10183e3ece9543"
+      }
+    }
+  ],
+  "_class": "hmslogin.models.User"
+},{
+  "_id": {
+    "$oid": "60c707beef8982249d6d6730"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$FoYZl4QbE9U4dRLuzR0YmevVRN.UyHPod34Dz963wZctyR2mvQsVq",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "60c703560b10183e3ece9545"
+      }
+    }
+  ],
+  "_class": "hmslogin.models.User"
+},{
+  "_id": {
+    "$oid": "60c707d6ef8982249d6d6731"
+  },
+  "username": "user",
+  "email": "user@gmail.com",
+  "password": "$2a$10$/un5xY5LycGQih3y2Mh8i.Hzux8go6On1pblzdhuajfOqpOJL8Rsq",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "60c703560b10183e3ece9543"
+      }
+    }
+  ],
+  "_class": "hmslogin.models.User"
+}]

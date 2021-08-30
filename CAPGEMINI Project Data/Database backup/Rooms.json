@@ -1,0 +1,121 @@
+[{
+  "_id": 101,
+  "roomType": "Standard",
+  "roomFeatures": "Balcony",
+  "roomCapacity": 2,
+  "roomPrice": 3000,
+  "roomStatus": "Booked",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 102,
+  "roomType": "Standard",
+  "roomFeatures": "Balcony",
+  "roomCapacity": 2,
+  "roomPrice": 3000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 103,
+  "roomType": "Standard",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 4000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 104,
+  "roomType": "Standard",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 4000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 105,
+  "roomType": "Standard",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 4000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 201,
+  "roomType": "Deluxe",
+  "roomFeatures": "Balcony",
+  "roomCapacity": 2,
+  "roomPrice": 5000,
+  "roomStatus": "Booked",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 202,
+  "roomType": "Deluxe",
+  "roomFeatures": "Balcony",
+  "roomCapacity": 2,
+  "roomPrice": 5000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 203,
+  "roomType": "Deluxe",
+  "roomFeatures": "Balcony",
+  "roomCapacity": 3,
+  "roomPrice": 5500,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 204,
+  "roomType": "Deluxe",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 5500,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 205,
+  "roomType": "Deluxe",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 5500,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 301,
+  "roomType": "Executive",
+  "roomFeatures": "Balcony",
+  "roomCapacity": 2,
+  "roomPrice": 7000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 302,
+  "roomType": "Executive",
+  "roomFeatures": "Balcony",
+  "roomCapacity": 2,
+  "roomPrice": 7000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 303,
+  "roomType": "Executive",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 8000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 304,
+  "roomType": "Executive",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 8000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+},{
+  "_id": 305,
+  "roomType": "Executive",
+  "roomFeatures": "Pool",
+  "roomCapacity": 3,
+  "roomPrice": 8000,
+  "roomStatus": "Available",
+  "_class": "com.cap.hms.entity.Rooms"
+}]
